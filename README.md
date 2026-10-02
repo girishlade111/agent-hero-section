@@ -380,3 +380,10 @@ This project is private and synced with v0.app deployment.
 - **Next.js Docs:** [https://nextjs.org/docs](https://nextjs.org/docs)
 - **Tailwind CSS:** [https://tailwindcss.com](https://tailwindcss.com)
 - **shadcn/ui:** [https://ui.shadcn.com](https://ui.shadcn.com)
+---
+
+## 👤 Author
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
+
+Part of the [LadeStack](https://ladestack.in) collection of free, open-source projects.
